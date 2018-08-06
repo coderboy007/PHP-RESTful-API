@@ -1,2 +1,2 @@
 # PHP-RESTful-API
-RESTful API using PHP
+JSON Based RESTful API using PHP
